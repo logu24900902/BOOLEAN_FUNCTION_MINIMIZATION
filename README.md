@@ -1,9 +1,3 @@
-
-
-```
-NAME : shakthivel v
-REG NUMBER: 24901278
-```
 # EXP2 . BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
@@ -39,9 +33,11 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+ Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by: LOGU R
+RegisterNumber: 212224230141 
+
 ```
 module DE2(A,B,C,D,W,X,Y,Z,F1,F2);
 input A,B,C,D,W,X,Y,Z;
