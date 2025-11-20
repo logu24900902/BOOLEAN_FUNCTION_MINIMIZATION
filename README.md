@@ -58,7 +58,9 @@ assign F2=X6|X7|X8|X|X10;
 endmodule
 ```
 ## K-map :
-![kmap](https://github.com/user-attachments/assets/598053e5-d4c4-4b19-9fee-bbf24550eaf9)
+![kmap1](https://github.com/user-attachments/assets/9e884bb5-cb9d-4b69-9183-5377aa21a5fe)
+
+
 
 
 **RTL realization**
